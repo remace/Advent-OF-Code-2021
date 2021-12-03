@@ -1,0 +1,3 @@
+most common bits: ['0', '0', '1', '1', '0', '1', '0', '0', '1', '1', '0', '0']
+least common bits:['1', '1', '0', '0', '1', '0', '1', '1', '0', '0', '1', '1']
+gamma rate: 844	epsilon rate: 3251	energy_consumption_rate: 2743844

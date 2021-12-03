@@ -1,3 +1,5 @@
+""" day 1: Submarine sonar """
+
 from Mixins.mixins import read_file
 
 
